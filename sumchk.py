@@ -1,4 +1,3 @@
-# Tool: SumCheck (Simple script to verify the integrity of your hash or checksum by comparing it against an original value.)
 # Script made using the help of ChatGPT. Author: Yousaf Imtiaz (www.linkedin.com/in/yousaf-imtiaz)
 # Usage: python3 sumcheck.py
 # Version 1.0
