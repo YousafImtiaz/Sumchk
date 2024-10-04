@@ -20,7 +20,7 @@ def main():
     if hash1 == hash2:
         print(f"{BRIGHT_GREEN}It's a match {RESET}")
     else:
-        print(f"{BRIGHT_RED}The sums do not match. Please check your hash.{RESET}")
+        print(f"{BRIGHT_RED}The sums do not match. Please check your inputs.{RESET}")
 
 if __name__ == "__main__":
     main()
