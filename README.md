@@ -3,5 +3,5 @@ SumChk (SumCheck) is a simple script made with the help of ChatGPT which can be 
 
 ## Usage
 python3 sumchk.py 
-<enter first value>
-<enter second value>
+enter first value
+enter second value
