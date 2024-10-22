@@ -1,7 +1,3 @@
-# Script made using the help of ChatGPT. Author: Yousaf Imtiaz (www.linkedin.com/in/yousaf-imtiaz)
-# Usage: python3 sumcheck.py
-# Version 1.0
-
 #!/usr/bin/python3
 
 # ANSI escape codes for bright colors
